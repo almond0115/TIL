@@ -10,4 +10,4 @@
 * ***
 ## Algorithm / Data Structure
 #### 프로그래머스의 [[JAVA]어서와! 자료구조와 알고리즘은 처음이지?](https://school.programmers.co.kr/learn/courses/13577)를 바탕으로 공부한 것입니다.
-* [리스트 (List)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/220926.md)
+* [리스트 (List)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/220927.md)
