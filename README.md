@@ -14,4 +14,4 @@
 [[ JAVA API DOCUMENT GUIDE ]](https://docs.oracle.com/javase/8/docs/api/) 를 참조하여 원하는 정보를 찾고 그 의미를 이해하는 것은 매우 중요합니다. 
 
 * [자료구조와 알고리즘](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/220927.md)
-* [리스트 (List)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/220928.md)
+* [리스트 (List)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/220928-29.md.md)
