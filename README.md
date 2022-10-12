@@ -18,3 +18,4 @@
 * [맵 (Map)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/221001-02.md)
 * [집합 (Set)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/221004-05.md)
 * [스택 (Queue)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/221007-08.md)
+* [선형탐색과 이진탐색 (Linear search & Binary search)](https://github.com/almond0115/ALMOND_TIL/blob/main/Algorithm/221010-11.md)
